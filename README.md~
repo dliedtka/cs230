@@ -1,0 +1,4 @@
+Our data pre-processing is done in the dataset/ directory.  We did not upload our data files, as they are rather than large, but the dataset we used is available at https://components.one/datasets/#all-the-news.  That CSV should be placed in the dataset/ directory.  Run generate_pkl.py, which will output data.py in the dataset/ directory.
+
+The notebooks we run are stored in the notebooks/ directory.
+
